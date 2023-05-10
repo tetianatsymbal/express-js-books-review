@@ -1,0 +1,19 @@
+{
+  "name": "express-js-books-review",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start-local": "nodemon server.js"
+  },
+  "author": "Tetiana Tsymbal",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "http-errors": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
